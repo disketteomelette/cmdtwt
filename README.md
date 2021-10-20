@@ -1,5 +1,5 @@
 # cmdtwt
-(2014) An VB exe - without interface - that can tweet in a single command line.
+(2014) An VB exe - without interface - to tweet something.
 
 Usage:
 
