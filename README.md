@@ -1,5 +1,5 @@
 # cmdtwt
-(2012) An VB exe - without interface - to tweet something.
+(2012) An old VB exe - without interface - to tweet something.
 
 Usage:
 
